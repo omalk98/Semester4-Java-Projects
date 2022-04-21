@@ -1,0 +1,12 @@
+Generated account binary.
+Generated transaction binary.
+Unmatched transaction record for account number 400
+Unmatched transaction record for account number 900
+Generated account binary.
+Generated account csv file.
+Generated account binary.
+Generated transaction binary.
+Unmatched transaction record for account number 400
+Unmatched transaction record for account number 900
+Generated account binary.
+Generated account csv file.

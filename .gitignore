@@ -1,0 +1,11 @@
+midterm/*
+final_test/*
+test1/*
+**/.idea
+**/out
+**/doc
+**/target
+**/.gradle
+**/gradle
+**/build
+Assignment1fx/*
